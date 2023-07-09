@@ -5,3 +5,7 @@ Olá mundo! Meu nome é Lucas, tenho 17 anos, sou estudante do terceiro ano do e
 <br>Discord: Luckzin_#8249
 </p>
 <hr>
+  ##
+  ![Snake animation](https://github.com/andrercosta/andrercosta/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
