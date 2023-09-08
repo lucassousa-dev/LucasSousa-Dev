@@ -4,7 +4,7 @@
 💻 Olá Mundo<br>
 ✨ 17 Anos<br>
 📚 3º Ano do Ensino Médio<br>
-🖌 Estudante de Front-end (Angular)</p>
+🖌 Estudante de C#</p>
 <hr>
 
 <div>
