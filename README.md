@@ -3,8 +3,8 @@
 <p><img src="https://i.imgur.com/dVipEV8.gif" height="120px" width="200px" align="right">
 💻 Olá Mundo<br>
 ✨ 18 Anos<br>
-📚 1º Semestre ADS na Fatec <br>
-🖌 Estudante de C#</p>
+📚 2º Semestre ADS na Fatec <br>
+🖌 Estudante Front-End</p>
 <hr>
 
 <div>
