@@ -2,9 +2,9 @@
 <br>
 <p><img src="https://i.imgur.com/dVipEV8.gif" height="120px" width="200px" align="right">
 💻 Olá Mundo<br>
-✨ 18 Anos<br>
+✨ 19 Anos<br>
 📚 2º Semestre ADS na Fatec <br>
-🖌 Estudante Front-End</p>
+🖌 Estudante Full-Stack</p>
 <hr>
 
 <div>
