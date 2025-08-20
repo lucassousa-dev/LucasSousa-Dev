@@ -1,11 +1,12 @@
 # 👨🏾‍💻 Lucas G. Sousa
-<br>
 <img src="https://i.imgur.com/dVipEV8.gif" height="120px" width="200px" align="right">
+
 <p>
 💻 Olá Mundo<br>
 ✨ 19 Anos<br>
 📚 3º Semestre ADS na Fatec <br>
-🖌 Estudante Full-Stack</p>
+🖌 Estudante Full-Stack
+</p>
 <hr>
 
 <div>
