@@ -4,7 +4,7 @@
 <p>
 💻 Olá Mundo<br>
 ✨ 19 Anos<br>
-📚 3º Semestre ADS na Fatec <br>
+📚 4º Semestre ADS na Fatec <br>
 🖌 Estudante Full-Stack
 </p>
 <hr>
