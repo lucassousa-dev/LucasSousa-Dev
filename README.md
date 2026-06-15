@@ -47,6 +47,9 @@ Atualmente, direciono minha carreira para **Back-end em C#/.NET**, aprofundando 
 
 ## 🚀 Projetos em destaque
 
+### [DevStore.Api](https://github.com/lucassousa-dev/devstore-api)
+API REST em ASP.NET Core para gerenciamento de produtos e categorias, com EF Core, SQL Server, DTOs, Services e relacionamento entre entidades.
+
 ### [angular-product-catalog](https://github.com/lucassousa-dev/angular-product-catalog)
 Aplicação em Angular para cadastro e listagem de produtos, utilizando formulários reativos, componentização e comunicação HTTP com API simulada.
 
