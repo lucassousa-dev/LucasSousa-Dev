@@ -65,7 +65,7 @@ Projeto console em C# para estudo de Programação Orientada a Objetos, com mode
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 Fatec Itu - Dom Amaury Castanho  
-**4º semestre | Conclusão prevista em 2027**
+**5º semestre | Conclusão prevista em 2027**
 
 ---
 
